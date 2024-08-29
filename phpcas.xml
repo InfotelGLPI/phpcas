@@ -1,0 +1,47 @@
+<root>
+   <name>phpcas</name>
+   <key>phpcas</key>
+   <state>stable</state>
+   <logo></logo>
+   <description>
+      <short>
+         <en>phpcas GLPI plugin.</en>
+         <fr>Plugin GLPI phpcas</fr>
+      </short>
+      <long>
+         <en>Add phpcas library</en>
+         <fr>Ajoute la librairie php-cas</fr>
+      </long>
+   </description>
+   <homepage>https://github.com/infotelGLPI/phpcas</homepage>
+   <download>https://github.com/infotelGLPI/phpcas/releases</download>
+   <issues>https://github.com/infotelGLPI/phpcas/issues</issues>
+   <readme>https://github.com/infotelGLPI/phpcas/blob/master/README.md</readme>
+   <authors>
+      <author>Teclib'</author>
+   </authors>
+   <versions>
+      <version>
+         <num>1.0.0</num>
+         <compatibility>^10.0.10</compatibility>
+         <download_url>https://github.com/InfotelGLPI/phpcas/releases/download/1.0.0/glpi-phpcas-1.0.0.tar.bz2</download_url>
+      </version>
+   </versions>
+   <langs>
+      <lang>en_GB</lang>
+      <lang>fr_FR</lang>
+   </langs>
+   <license>GPL-2.0-or-later</license>
+   <tags>
+      <en>
+         <tag>CAS</tag>
+         <tag>Authentication</tag>
+      </en>
+      <fr>
+         <tag>CAS</tag>
+         <tag>Authentification</tag>
+      </fr>
+   </tags>
+   <screenshots>
+   </screenshots>
+</root>
