@@ -2,7 +2,7 @@
    <name>phpcas</name>
    <key>phpcas</key>
    <state>stable</state>
-   <logo></logo>
+   <logo>https://raw.githubusercontent.com/InfotelGLPI/phpcas/master/phpcas.png</logo>
    <description>
       <short>
          <en>phpcas GLPI plugin.</en>
@@ -18,7 +18,8 @@
    <issues>https://github.com/infotelGLPI/phpcas/issues</issues>
    <readme>https://github.com/infotelGLPI/phpcas/blob/master/README.md</readme>
    <authors>
-      <author>Teclib'</author>
+      <author>Xavier CAILLAUD</author>
+      <author>Infotel</author>
    </authors>
    <versions>
       <version>
