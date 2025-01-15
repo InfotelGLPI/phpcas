@@ -2,7 +2,7 @@
    <name>phpcas</name>
    <key>phpcas</key>
    <state>stable</state>
-   <logo>https://raw.githubusercontent.com/InfotelGLPI/phpcas/master/phpcas.png</logo>
+   <logo>https://raw.githubusercontent.com/InfotelGLPI/phpcas/main/phpcas.png</logo>
    <description>
       <short>
          <en>phpcas GLPI plugin.</en>
